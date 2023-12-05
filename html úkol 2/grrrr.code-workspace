@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../grrrr"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sp vap"
+	}
+}
